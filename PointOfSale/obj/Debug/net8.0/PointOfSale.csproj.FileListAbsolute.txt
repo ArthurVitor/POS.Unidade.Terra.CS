@@ -1,0 +1,14 @@
+C:\Users\arthu\OneDrive\Área de Trabalho\POS.Unidade.Terra.CS\PointOfSale\bin\Debug\net8.0\PointOfSale.exe
+C:\Users\arthu\OneDrive\Área de Trabalho\POS.Unidade.Terra.CS\PointOfSale\bin\Debug\net8.0\PointOfSale.deps.json
+C:\Users\arthu\OneDrive\Área de Trabalho\POS.Unidade.Terra.CS\PointOfSale\bin\Debug\net8.0\PointOfSale.runtimeconfig.json
+C:\Users\arthu\OneDrive\Área de Trabalho\POS.Unidade.Terra.CS\PointOfSale\bin\Debug\net8.0\PointOfSale.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\POS.Unidade.Terra.CS\PointOfSale\bin\Debug\net8.0\PointOfSale.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\POS.Unidade.Terra.CS\PointOfSale\obj\Debug\net8.0\PointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Área de Trabalho\POS.Unidade.Terra.CS\PointOfSale\obj\Debug\net8.0\PointOfSale.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\POS.Unidade.Terra.CS\PointOfSale\obj\Debug\net8.0\PointOfSale.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Área de Trabalho\POS.Unidade.Terra.CS\PointOfSale\obj\Debug\net8.0\PointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\POS.Unidade.Terra.CS\PointOfSale\obj\Debug\net8.0\PointOfSale.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\POS.Unidade.Terra.CS\PointOfSale\obj\Debug\net8.0\refint\PointOfSale.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\POS.Unidade.Terra.CS\PointOfSale\obj\Debug\net8.0\PointOfSale.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\POS.Unidade.Terra.CS\PointOfSale\obj\Debug\net8.0\PointOfSale.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\POS.Unidade.Terra.CS\PointOfSale\obj\Debug\net8.0\ref\PointOfSale.dll
